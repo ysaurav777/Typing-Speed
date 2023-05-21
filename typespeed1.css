@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-con {
+    background-image: linear-gradient(to right, #f2ebfe, #dac0ff);
+    padding: 15px;
+}
+
+.main-heading {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.main-para {
+    color: #3e4c59;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+}
+
+.para-con {
+    background-color: #f3eaff;
+    margin: 10px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 20px;
+}
+
+.text-ar {
+    border-radius: 5px;
+    margin: 10px;
+    height: 150px;
+    width: 400px;
+}
+
+.button1 {
+    background-color: #690cb0;
+    color: white;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.secs {
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 10px;
+}
+
+.secs1 {
+    font-family: "Roboto";
+    font-size: 25px;
+}
